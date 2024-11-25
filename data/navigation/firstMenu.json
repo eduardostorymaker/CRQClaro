@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "tag": "Interés",
+        "show": true,
+        "submenu": [
+            { 
+                "id":1,
+                "tag": "Enlaces",
+                "link": "/general/links",
+                "selected": false
+            },
+            { 
+                "id":2,
+                "tag": "Contactos",
+                "link": "/general/contacts",
+                "selected": false
+                
+            },
+            { 
+                "id":3,
+                "tag": "Horarios",
+                "link": "/general/schedulesv2",
+                "selected": false
+            },
+            { 
+                "id":4,
+                "tag": "CRQs Observaciones",
+                "link": "/general/infocrq",
+                "selected": false
+            }
+            ,
+            { 
+                "id":5,
+                "tag": "Lista sites",
+                "link": "/sitestopology",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tag": "CORE IP/MPLS",
+        "show": true,
+        "submenu": [
+            { 
+                "id":1,
+                "tag": "Seguimiento Pendientes",
+                "link": "/ipmpls/faulttracking",
+                "selected": false
+            },
+            { 
+                "id":2,
+                "tag": "Enlaces Internacionales",
+                "link": "/admin/ip/briefinternationallinks",
+                "selected": false
+            },
+            { 
+                "id":3,
+                "tag": "Comandos Equipos",
+                "link": "/ipmpls/ipmplscommands",
+                "selected": false
+            },
+            { 
+                "id":4,
+                "tag": "Inventario Equipos",
+                "link": "/ipmpls/ipmplsinventory",
+                "selected": false
+            },
+            { 
+                "id":5,
+                "tag": "Inventario Interconexiones",
+                "link": "/ipmpls/intxinventory",
+                "selected": false
+            },
+            { 
+                "id":6,
+                "tag": "Plantillas Proveedores",
+                "link": "/ipmpls/providercontact",
+                "selected": false
+            }
+            
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "CORE CS/PS",
+        "show": true,
+        "submenu": [
+            { 
+                "id":1,
+                "tag": "Procedimientos",
+                "link": "/csps/procedures",
+                "selected": false
+            },
+            { 
+                "id":2,
+                "tag": "Seguimiento Roaming",
+                "link": "/csps/roamingtracking",
+                "selected": false
+            },
+            { 
+                "id":3,
+                "tag": "Raiting Group",
+                "link": "/csps/raitings",
+                "selected": false
+            },
+            { 
+                "id":4,
+                "tag": "Routing Numbers",
+                "link": "/csps/routings",
+                "selected": false
+            },
+            { 
+                "id":5,
+                "tag": "Plantillas Roaming",
+                "link": "/csps/roamingcontact",
+                "selected": false
+            },
+            { 
+                "id":6,
+                "tag": "Escalamientos",
+                "link": "/csps/escalation",
+                "selected": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+{
+  "name": "next-simple1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 5001",
+    "build": "next build",
+    "start": "next start -p 5000",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material": "^5.14.18",
+    "@mui/x-data-grid": "^6.18.1",
+    "@mui/x-date-pickers": "^7.2.0",
+    "@visx/annotation": "^3.3.0",
+    "@visx/axis": "^3.10.1",
+    "@visx/grid": "^3.5.0",
+    "@visx/group": "^3.3.0",
+    "@visx/scale": "^3.5.0",
+    "@visx/shape": "^3.5.0",
+    "@visx/tooltip": "^3.3.0",
+    "@visx/visx": "^3.11.0",
+    "chart.js": "^4.4.1",
+    "d3": "^7.9.0",
+    "dayjs": "^1.11.10",
+    "leaflet": "^1.9.4",
+    "next": "^13.5.6",
+    "oracledb": "^6.3.0",
+    "pg": "^8.11.3",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-markercluster": "^3.0.0-rc1",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}

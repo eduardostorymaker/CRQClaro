@@ -1,0 +1,63 @@
+[
+    {
+        "id": "ral",
+        "title":"OyM Lima",
+        "priority": 100,
+        "selected": true
+    },
+    {
+        "id": "ran",
+        "title":"OyM Norte",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "ras",
+        "title":"OyM Sur",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "rac",
+        "title":"OyM Centro",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "energia",
+        "title":"Energía",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "pextlima",
+        "title":"PEXT Lima",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "pextnorte",
+        "title":"PEXT Norte",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "pextsur",
+        "title":"PEXT Sur",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "ipmpls",
+        "title":"NOC IP/MPLS",
+        "priority": 100,
+        "selected": false
+    },
+    {
+        "id": "csps",
+        "title":"NOC CS/PS",
+        "priority": 100,
+        "selected": false
+    }
+
+]

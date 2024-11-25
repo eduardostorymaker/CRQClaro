@@ -1,0 +1,47 @@
+export default function IpmplsInventoryItem({ siteId, siteName, name, type, tecnologies, district, province, department }) {
+    
+    return(
+        <tr className="">
+            <td>
+                {
+                    siteId??"-"
+                }
+            </td>
+            <td>
+                {
+                    siteName??"-"
+                }
+            </td>
+            <td>
+                {
+                    tecnologies
+                }
+            </td>
+            <td>
+                {
+                    name
+                }
+            </td>
+            <td>
+                {
+                    type
+                }
+            </td>
+            <td>
+                {
+                    district
+                }
+            </td>
+            <td>
+                {
+                    province
+                }
+            </td>
+            <td>
+                {
+                    department
+                }
+            </td>
+        </tr>
+    )
+}
